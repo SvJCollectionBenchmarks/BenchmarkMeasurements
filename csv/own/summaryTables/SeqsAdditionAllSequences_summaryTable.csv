@@ -1,0 +1,6 @@
+Kolekcja; Średnia; Odch. std.; Min.; Maks.; Przedział ufności
+JArraySequence; 1229.47; 4.84; 1224.0; 1239.0; (1227.63, 1231.31)
+JLinkedSequence; 8213.63; 68.43; 8069.0; 8260.0; (8187.64, 8239.62)
+JVectorSequence; 1229.1; 4.43; 1221.0; 1239.0; (1227.42, 1230.78)
+SArraySequence; 1207.53; 2.29; 1203.0; 1210.0; (1206.66, 1208.4)
+SLinkedSequence; 7223.33; 6.16; 7210.0; 7237.0; (7221.0, 7225.67)
