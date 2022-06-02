@@ -1,4 +1,4 @@
 Kolekcja; Średnia; Odch. std.; Min.; Maks.; Przedział ufności
-JArraySequence; 7915.4; 42.71; 7692.0; 7963.0; (7899.18, 7931.62)
-JVectorSequence; 4053.77; 3.78; 4040.0; 4060.0; (4052.33, 4055.2)
-SArraySequence; 3254.37; 71.75; 2972.0; 3285.0; (3227.12, 3281.62)
+JArraySequence; 7915.4; 42.7; 7692; 7963; (7899.2, 7931.6)
+JVectorSequence; 4053.8; 3.8; 4040; 4060; (4052.3, 4055.2)
+SArraySequence; 3254.4; 71.8; 2972; 3285; (3227.1, 3281.6)
