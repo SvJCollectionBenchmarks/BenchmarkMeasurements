@@ -1,6 +1,6 @@
 Kolekcja; Średnia; Odch. std.; Min.; Maks.; Przedział ufności
-JArraySequence; 9746.3; 11.6; 9721; 9767; (9741.9, 9750.7)
-JLinkedSequence; 5586.4; 5.2; 5573; 5596; (5584.4, 5588.4)
-JVectorSequence; 9694.2; 16.2; 9655; 9718; (9688.1, 9700.4)
-SArraySequence; 6231.4; 16.4; 6187; 6250; (6225.2, 6237.6)
-SLinkedSequence; 428.6; 0.8; 427; 430; (428.3, 428.9)
+JArraySequence; 9746.3; 11.6; 9721.0; 9767.0; (9741.9, 9750.7)
+JLinkedSequence; 5586.4; 5.2; 5573.0; 5596.0; (5584.4, 5588.4)
+JVectorSequence; 9694.2; 16.2; 9655.0; 9718.0; (9688.1, 9700.4)
+SArraySequence; 6231.4; 16.4; 6187.0; 6250.0; (6225.2, 6237.6)
+SLinkedSequence; 428.6; 0.8; 427.0; 430.0; (428.3, 428.9)
